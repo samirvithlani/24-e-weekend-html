@@ -1,0 +1,50 @@
+Html
+
+hyperText Markup Language
+
+amazone.in
+
+server side
+
+client side
+
+html -->scripting language
+
+use:
+to create web pages we require html
+
+collection of web pages is called website
+
+history of html:
+html was developed by tim berners lee in 1990
+first version of html was html 1.0
+current version of html is html 5.0
+
+
+html file extension is .html or .htm
+
+browser:chrome,firefox,opera,safari,internet explorer
+editor:notepad,notepad++,sublime text,atom,brackets,visual studio code
+
+---------------------------------------------------------------------
+
+html only understands tags
+
+<p> paragraph </p>
+heading tags:
+<h1> to <h6>
+<br> new line --> self closing tag
+<b> bold </b>
+
+
+
+
+
+
+
+
+
+
+
+
+
