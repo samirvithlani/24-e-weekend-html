@@ -37,14 +37,19 @@ heading tags:
 <b> bold </b>
 
 
+1 java
+2 python
+3 c
+4 c++
 
+* java
+* python
+* c
+* c++
 
-
-
-
-
-
-
-
-
-
+2 types of list in html:
+1. ordered list
+    <ol>
+2. unordered list
+    <ul>
+to create list items we use <li> tag    
