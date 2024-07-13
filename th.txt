@@ -53,3 +53,14 @@ heading tags:
 2. unordered list
     <ul>
 to create list items we use <li> tag    
+
+
+
+tags
+();
+<>
+<p></p>
+
+
+---------------------------------------------------------------------
+.html:
