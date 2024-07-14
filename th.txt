@@ -71,3 +71,19 @@ tags
 <tag attribue>
 
 style attribue
+
+
+
+table:
+<table> : table tag is used to create table
+<thead> : table header
+<th> : table heading
+<tbody> : table body
+<tr> : table row
+<td> : table data
+
+
+
+railway time table
+
+train name train number  source  destination  arrival time  departure time
