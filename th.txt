@@ -83,7 +83,14 @@ table:
 <td> : table data
 
 
-
 railway time table
-
 train name train number  source  destination  arrival time  departure time
+
+table row span and col span
+
+table:
+
+royal time table
+[session name] [session time] [subject] [faculty name] 
+  ROBOTO          9 to 10       robo       mr x
+  ROBOTO          10 to 11      robo       mr x   
