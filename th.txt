@@ -94,3 +94,43 @@ royal time table
 [session name] [session time] [subject] [faculty name] 
   ROBOTO          9 to 10       robo       mr x
   ROBOTO          10 to 11      robo       mr x   
+
+
+
+books table:
+cols:
+
+book name
+author name
+price
+publisher
+release year
+
+1) 1 author has published multiple books
+2) in single year multiple books are published
+
+
+image:
+<img> : image tag is used to display image
+
+attribue:
+src:  source of image
+alt:  alternative text
+height: height of image
+width:  width of image
+preloading of image
+
+
+link:
+<a> : anchor tag is used to create hyperlink
+attribue:
+href:  hyperlink reference : url of the page : uniform resource locator
+target:
+  _blank,
+ _self,
+  _parent,
+   _top
+
+
+top : a tab -->b open --> c open -- >d open _ top
+parent a -->b -->c
