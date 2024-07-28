@@ -134,3 +134,15 @@ target:
 
 top : a tab -->b open --> c open -- >d open _ top
 parent a -->b -->c
+
+tag:
+marquee
+attribue:
+direction:left : right : up : down
+scrollamount: 1 to 10 : 6
+behavior:scroll : slide : alternate
+loop: 1 to n : infinite
+bgcolor: color name or color code
+width: 100%
+height: 100%
+scrolldelay: 85
