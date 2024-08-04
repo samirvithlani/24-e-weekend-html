@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <body>
+    <div
+      style="
+        border: solid 1px brown;
+        height: auto;
+        width: 500px;
+        background-color: cornflowerblue;
+        padding: 20px;
+        margin-left: 30%;
+        border-radius: 20px;
+      "
+    >
+      <form action="#">
+        <div>
+          <label>NAME</label>
+          <input type="text" name="name" placeholder="enter name" />
+        </div>
+        <div>
+          <label>Country</label>
+          <select id="country">
+            <option>SELECT COUNTRY</option>
+            <option value="india">India</option>
+            <option value="usa">Usa</option>
+            <option value="uk">UK</option>
+          </select>
+        </div>
+
+        <div>
+          <label>BirthDate</label>
+          <input type="date" id="dob" />
+        </div>
+        <div>
+          <label>TIME</label>
+          <input type="time" id="time" />
+        </div>
+        <div>
+          <label>DATE-TIME</label>
+          <input type="datetime-local" id="datetime" />
+        </div>
+        <div>
+          <label>PROFILE PIC</label>
+          <input type="file" id="profilepic" multiple />
+        </div>
+        <div>
+          <label>COLOR</label>
+          <input type="color" id="color" />
+        </div>
+        <div>
+          <label>ADDRESS</label>
+          <textarea id="addr" rows="5" cols="30"></textarea>
+        </div>
+        <div>
+          <select>
+            <option value="india">+91</option>
+            <option value="india">+92</option>
+            <option value="india">+93</option>
+          </select>
+          <label>TEL</label>
+          <input type="tel" id="tel" />
+        </div>
+        <div>
+          <label>SEARCH</label>
+          <input type="search" id="search" />
+        </div>
+        <div>
+          <label>URL</label>
+          <input type="url" id="url" />
+        </div>
+        <div>
+          <input type="submit" value="Submit" />
+        </div>
+      </form>
+    </div>
+  </body>
+</html>
